@@ -99,3 +99,20 @@ namespace UnitTestDemoTest
 
 ![](https://wojiayun.ztywyj.top:18443/lychee/uploads/big/566f95202463374da9fbd7d291b9c280.png)
 
+## 补充
+
+也可以通过安装“Unit Test Generator”插件生成单元测试，具体方法如下：
+
+首先在网上下载好安装包，双击打开进行安装：
+
+![](https://wojiayun.ztywyj.top:18443/lychee/uploads/big/f2d5a205aca5102228e52d3699e476c6.png)
+
+安装完成后，在对应想要测试的方法上鼠标右击即可看到生成单元测试的选项：
+
+![](https://wojiayun.ztywyj.top:18443/lychee/uploads/big/70ddb0b01c70f729016e8376df49bb4a.png)
+
+在弹出的菜单中完成基本的设置后点击OK即可生成单元测试项目：
+
+![](https://wojiayun.ztywyj.top:18443/lychee/uploads/big/616603bd0e888b87a4f8dd4dfe91be63.png)
+
+之后在单元测试项目中填写相应的测试方法即可。
