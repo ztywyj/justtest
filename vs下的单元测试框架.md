@@ -4,7 +4,7 @@
 
 打开vs2013，新建一个控制台项目，取名为“UnitTestDemo”，打开Program类，创建一个Add方法：
 
-```
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,7 +35,7 @@ namespace UnitTestDemo
 
 ![](https://wojiayun.ztywyj.top:18443/lychee/uploads/big/5d4183cdadc6afc9207acc0c6c528923.png)
 
-为了方便理解，这边可以把UnitTestDemoTest项目下的类重命名为“ProgramTest.cs”，表示这是测试Program类。此时项目结构如下：
+为了方便理解，这边可以把UnitTestDemoTest项目下的主程序重命名为“ProgramTest.cs”，表示这是测试Program类。此时项目结构如下：
 
 ![](https://wojiayun.ztywyj.top:18443/lychee/uploads/big/7ef6114033e47f5db70cad664cc6380c.png)
 
@@ -55,7 +55,7 @@ namespace UnitTestDemo
 
 在单元测试项目中的ProgramTest.cs中填写以下代码：
 
-```
+```c#
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using UnitTestDemo;
